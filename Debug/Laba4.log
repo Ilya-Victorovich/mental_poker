@@ -1,0 +1,20 @@
+﻿  main.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+D:\SibSUTIS\4 course\7 Защита информации (Ракитский)\Laba4\main.cpp(128,19): warning C4244: инициализация: преобразование "_Rep" в "unsigned int", возможна потеря данных
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+D:\SibSUTIS\4 course\7 Защита информации (Ракитский)\Laba4\main.cpp(176,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\SibSUTIS\4 course\7 Защита информации (Ракитский)\Laba4\main.cpp(192,44): warning C4018: <: несоответствие типов со знаком и без знака
+D:\SibSUTIS\4 course\7 Защита информации (Ракитский)\Laba4\main.cpp(236,19): warning C4244: инициализация: преобразование "_Rep" в "unsigned int", возможна потеря данных
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+D:\SibSUTIS\4 course\7 Защита информации (Ракитский)\Laba4\main.cpp(242,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\SibSUTIS\4 course\7 Защита информации (Ракитский)\Laba4\main.cpp(249,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\SibSUTIS\4 course\7 Защита информации (Ракитский)\Laba4\main.cpp(267,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\SibSUTIS\4 course\7 Защита информации (Ракитский)\Laba4\main.cpp(274,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\SibSUTIS\4 course\7 Защита информации (Ракитский)\Laba4\main.cpp(328,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Laba4.vcxproj -> D:\SibSUTIS\4 course\7 Защита информации (Ракитский)\Laba4\Debug\Laba4.exe
